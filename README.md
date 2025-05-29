@@ -1,4 +1,4 @@
-## Hello I'm Joshua Christopher 👋
+![Joshua Christopher](./img/github-header-image.png)
 
 <!--
 **Joshuachiher/Joshuachiher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **MRCOFFEE**
 - 🌱 I’m currently learning **React Framework**
--❤️❤️❤️❤️
 
-![Happy Code](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9oZHd3azR0NmhnZWUwNHNtZzU5N2hlbnE4M2Z2b2tkbzFzMTFqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
+#### Skills
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+##### My GITHUB STATS
+[![Joshua Christopher](https://github-readme-stats.vercel.app/api?username=Joshua&show_icons=true&theme=tokyonight)]
